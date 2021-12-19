@@ -20,6 +20,9 @@ Crawl and scrape comments from the subreddit Cyperpunk 2077, prepare the comment
 ## Getting Started ##
 Either clone this repository to get the notebooks and presentation or directly click through the [Masternotebook](./Masternotebook.ipynb) that contains further information about the project and links to every subnotebook.
 
+**Attention:**
+ You may have to use a notebook viewer (e.g. https://nbviewer.org) as some of our notebooks are too large for GitHub to display.
+
 ```
 git clone https://github.com/ordass00/Text-Analytics-Project-Elective-TH.OHM.git
 ```
